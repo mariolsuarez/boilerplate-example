@@ -14,3 +14,6 @@ defines what the document type is
 
 ## meta charset
 The HTML charset Attribute is used to specify the character encoding for the HTML document.
+
+## body
+represents the content of an HTML document. There can be only one <body> element in a document.
