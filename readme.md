@@ -14,3 +14,4 @@ defines what the document type is
 
 ## meta charset
 The HTML charset Attribute is used to specify the character encoding for the HTML document.
+
