@@ -17,3 +17,8 @@ The HTML charset Attribute is used to specify the character encoding for the HTM
 
 ## body
 represents the content of an HTML document. There can be only one <body> element in a document.
+
+## link
+specifies the relationship between the current document and the linked document/resource
+
+
